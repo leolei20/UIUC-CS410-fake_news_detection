@@ -1,0 +1,62 @@
+{
+  "false_positives": {
+    "count": 6,
+    "examples": [
+      {
+        "title": "VIDEO: Special Preview Of Jersey Shore In Miami!",
+        "probability": 0.9769346786622028,
+        "text_preview": "They're baaaaaackkk!!! A preview of the second season of the breakout hit Jersey Shore aired prior to the MTV Movie Awards on Sunday night. Watch the video on RadarOnline.com In the clip, we get to se..."
+      },
+      {
+        "title": "Leonard Lance claims federal tax code contains 4 million words, is 7 times as long as Bible",
+        "probability": 0.6897813239766547,
+        "text_preview": "The U.S. Internal Revenue code may make War and Peace read like a novella. That\u2019s how onerous and confounding the nation\u2019s tax code is, according to Rep. Leonard Lance (R-7th), who issued a news relea..."
+      },
+      {
+        "title": "Strong Words in Ohio as Obama and Clinton Press On",
+        "probability": 0.6540791857807696,
+        "text_preview": "WESTERVILLE, Ohio \u0097 Like rival warships pulling into the same small harbor, Senators Barack Obama and Hillary Rodham Clinton held rallies hours apart and exchanged oratorical barrages here Sunday. Mr...."
+      },
+      {
+        "title": "Full text: Jeff Flake on Trump speech transcript",
+        "probability": 0.6451323917281234,
+        "text_preview": "Full text: Jeff Flake on Trump speech transcript Prepared remarks for Sen. Jeff Flake, who delivered a speech to the Senate on Jan. 17, 2018. Mr. President, near the beginning of the document that mad..."
+      },
+      {
+        "title": "To young people who are undocumented: This is your country, too.",
+        "probability": 0.5434113025332513,
+        "text_preview": "To young people who are undocumented: This is your country, too. Hillary Clinton 5 min read \u00b7 Aug 15, 2016 -- 13 Listen Share Press enter or click to view image in full size Today marks four years sin..."
+      },
+      {
+        "title": "At Trump hotel site, immigrant workers wary",
+        "probability": 0.5027854633001376,
+        "text_preview": "For weeks, dozens of construction workers from Latin America have streamed onto the site of the Old Post Office Pavilion in downtown Washington and taken pride in their work building one of the city\u2019s..."
+      }
+    ]
+  },
+  "false_negatives": {
+    "count": 4,
+    "examples": [
+      {
+        "title": "The hacked emails at the center of Mueller\u2019s Russia investigation, explained",
+        "probability": 0.024236871632001094,
+        "text_preview": "is a senior politics correspondent at Vox, covering the White House, elections, and political scandals and investigations. He\u2019s worked at Vox since the site\u2019s launch in 2014, and before that, he worke..."
+      },
+      {
+        "title": "\u0e2b\u0e27\u0e22 \u0e0a\u0e0e\u0e32 \u0e41\u0e17\u0e07\u0e2b\u0e27\u0e22\u0e1c\u0e48\u0e32\u0e19\u0e21\u0e37\u0e2d\u0e16\u0e37\u0e2d \u0e2a\u0e30\u0e14\u0e27\u0e01\u0e17\u0e38\u0e01\u0e17\u0e35\u0e48\u0e17\u0e38\u0e01\u0e40\u0e27\u0e25\u0e32",
+        "probability": 0.2535065333456725,
+        "text_preview": "\u0e44\u0e14\u0e49\u0e23\u0e31\u0e1a\u0e01\u0e32\u0e23\u0e23\u0e31\u0e1a\u0e23\u0e2d\u0e07\u0e08\u0e32\u0e01 Global Gambling Guidance Group (G4) \u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a Responsible Gaming Excellence \u0e41\u0e25\u0e30\u0e40\u0e1b\u0e47\u0e19\u0e2a\u0e21\u0e32\u0e0a\u0e34\u0e01\u0e02\u0e2d\u0e07 International Association of Gaming Regulators (IAGR) \u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e01\u0e32\u0e23\u0e1b\u0e23\u0e30\u0e40\u0e21\u0e34\u0e19\u0e1b\u0e23\u0e30\u0e08\u0e33\u0e1b\u0e35\u0e42\u0e14\u0e22 Pricewaterh..."
+      },
+      {
+        "title": "10 Things You Didn't Know About Nancy Pelosi",
+        "probability": 0.28496569666275945,
+        "text_preview": "Jim Lo Scalzo for USN&WR 1. One of six children (and the only daughter), Nancy (Patricia D'Alesandro) Pelosi was born on March 26, 1940, and grew up in Baltimore's Little Italy. 2. Pelosi's father, To..."
+      },
+      {
+        "title": "Ravi for Hoboken",
+        "probability": 0.43866757608687196,
+        "text_preview": "An advocate for balanced development, open space initiatives, and sensible spending, Councilman Bhalla was elected to the City Council in 2009. Alongside his council colleagues and Mayor Dawn Zimmer, ..."
+      }
+    ]
+  }
+}

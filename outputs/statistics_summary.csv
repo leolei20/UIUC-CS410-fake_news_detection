@@ -1,0 +1,9 @@
+Metric,Value
+Total Articles,514.0
+Fake News,241.0
+Real News,273.0
+Avg Text Length (Fake),2339.286307053942
+Avg Text Length (Real),14429.406593406593
+Avg Word Count (Fake),382.4688796680498
+Avg Word Count (Real),2492.4761904761904
+Unique Authors,173.0

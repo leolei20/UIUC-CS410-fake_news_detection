@@ -47,7 +47,7 @@ Thumbs.db
 
 # Large Model Files (Git has 100MB limit)
 # Ignore entire DistilBERT model directory (contains 250MB+ model files)
-outputs/models/distilbert/
+outputs/models/
 
 
 
